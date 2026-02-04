@@ -1,4 +1,4 @@
-# Autor: John Miró
+# Autor: John Miró :)
 # Fecha: 2026
 # Descripción: Mejora del programa base agregando interacción con el usuario
 
