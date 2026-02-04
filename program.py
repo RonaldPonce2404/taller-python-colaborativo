@@ -5,3 +5,5 @@ def saludar():
  print("Hola, este es el programa base del taller")
 
 saludar()
+
+print ("Cambios hechos por Eric Ortiz") 
