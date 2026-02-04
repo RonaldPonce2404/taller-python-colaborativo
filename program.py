@@ -1,7 +1,9 @@
-# programa.py
-# Programa base para el taller colaborativo
+# Autor: John Miró
+# Fecha: 2026
+# Descripción: Mejora del programa base agregando interacción con el usuario
 
-def saludar():
- print("Hola, este es el programa base del taller")
+def saludar(nombre):
+    return f"Hola {nombre}, bienvenido al taller de Git y GitHub"
 
-saludar()
+usuario = input("Ingrese su nombre: ")
+print(saludar(usuario))
