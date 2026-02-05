@@ -2,9 +2,9 @@
 # Programa base para el taller colaborativo
 
 def saludar():
- print("Hola, este es el programa base del taller")
+ print("Hola, este programa es de Extezany Mora")
  #editado por Raymer
- print("Esta prueba ha sido realizada por Angie De Gracia")
+ print("Esta prueba ha sido realizada por Extezany Mora")
 
 saludar()
 # 1. Definimos la función primero
