@@ -1,10 +1,21 @@
 # programa.py
 # Programa base para el taller colaborativo
 
+def mensaje_de_gloria():
+    autor = "Gloria Jaramillo"
+    mensaje = "¡Aquí hice mi contribución!"
+    
+    print(f"Hola, soy {autor} y {mensaje}")
+ 
+if __name__ == "__main__":
+    mensaje_de_gloria()
+
 def saludar():
  print("Hola, este es el programa base del taller")
  #editado por Raymer
  print("Esta prueba ha sido realizada por Angie De Gracia")
+ #Editado por GloriaJAQ
+ print("Hola, soy GloriaJAQ y ¡Aquí hice mi contribución!")
 
 saludar()
 # 1. Definimos la función primero
