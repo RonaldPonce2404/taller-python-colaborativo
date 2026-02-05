@@ -14,6 +14,8 @@ def saludar():
  print("Hola, este es el programa base del taller")
  #editado por Raymer
  print("Esta prueba ha sido realizada por Angie De Gracia")
+ #Editado por GloriaJAQ
+ print("Hola, soy GloriaJAQ y ¡Aquí hice mi contribución!")
 
 saludar()
 # 1. Definimos la función primero
